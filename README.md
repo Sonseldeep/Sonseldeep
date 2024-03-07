@@ -1,16 +1,17 @@
-# Sonseldeep
-<h1 align="center">Hi 👋, I'm Sandeep Shrestha</h1>
-<h3 align="center">Being Human in The Age of AI</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<video   src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-11006715-8859556.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4" style=""></video>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonseldeep&label=Profile%20views&color=0e75b6&style=flat" alt="sonseldeep" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Analytical+and+Problem-Solving,;Adaptablility+and+Flexability,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-- 🌱 I’m currently learning **Data Science,ReactJs,SQL, Cyber Security**
+<div>
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sonseldeep&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/sonseldeep)
+</div>
 
-- 💬 Ask me about **React,SQL,Python**
-
-- ⚡ Fun fact **I think I am funny**
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +24,101 @@
 <a href="https://www.leetcode.com/sonseldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonseldeep" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonseldeep&show_icons=true&locale=en&layout=compact" alt="sonseldeep" /></p>
+## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
+<p>
+<h6>
+Being Human in The Age Of AI <br><br> Hello! I'm  Sandeep, a passionate Computer Science Student with solid foundation in DSA, Programming Language
+<br>
+<br>
+
+I am always pursuing something new and looking for a company where I can dedicate my passion and skills to make my dreams come true.
+
+Let's connect and explore collaboration possibilities.
+
+</h6>
+</p>
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td>
+     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonseldeep&show_icons=true&locale=en&layout=compact" alt="sonseldeep" /></p>
+
+ </td>
+
+<td>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonseldeep&show_icons=true&locale=en" alt="sonseldeep" /></p>
-
+ </td> 
+<td>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonseldeep&" alt="sonseldeep" /></p>
+
+</td>
+
+   </tr>
+  </table>
+
+<div align="center">
+
+</div>
+
+## Languages & Tools
+
+<h3 align="left">Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,ts,dart" />
+  </a>
+</p>
+
+<h3 align="left">Front-end</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=css,html" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+    
+    
+  </a>
+</p>
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet" />
+  </a>
+</p>
+<h3 align="left">Mobile</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" />
+    
+  </a>
+</p>
+<h3 align="left">DataBase</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+</p>
+<h3 align="left">Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,visualstudio,vscode" />
+    
+  </a>
+</p>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,wordpress,ubuntu,pycharm,phpstorm,linux,kali,idea" />
+  </a>
+</p>
