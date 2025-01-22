@@ -70,7 +70,7 @@ Let's connect and explore collaboration possibilities.
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,ts,dart" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java" />
   </a>
 </p>
 
@@ -89,13 +89,7 @@ Let's connect and explore collaboration possibilities.
 
 
 </p>
-<h3 align="left">Mobile</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-    
-  </a>
-</p>
+
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
