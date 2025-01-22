@@ -85,16 +85,14 @@ Let's connect and explore collaboration possibilities.
     
   </a>
 </p>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet" />
-  </a>
+
+
+
 </p>
 <h3 align="left">Mobile</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=react" />
     
   </a>
 </p>
@@ -109,9 +107,9 @@ Let's connect and explore collaboration possibilities.
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=pr,visualstudio,vscode" />
     
   </a>
 </p>
@@ -119,6 +117,6 @@ Let's connect and explore collaboration possibilities.
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,wordpress,ubuntu,pycharm,phpstorm,linux,kali,idea" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,idea" />
   </a>
 </p>
