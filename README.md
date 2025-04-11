@@ -30,7 +30,7 @@
 
 <p>
 <h6>
-Being Human in The Age Of AI <br><br> Hello! I'm  Sandeep, a passionate Computer Science Student with solid foundation in DSA, Programming Language
+Hello! I'm  Sandeep, a passionate Computer Science Student with solid foundation in DSA, Programming Language
 <br>
 <br>
 
@@ -79,7 +79,7 @@ Let's connect and explore collaboration possibilities.
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=css,html" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
     
     
@@ -102,7 +102,8 @@ Let's connect and explore collaboration possibilities.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://skillicons.dev/icons?i=pr,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=pr,visualstudio,vscode,figma,notion" />
+      
     
   </a>
 </p>
