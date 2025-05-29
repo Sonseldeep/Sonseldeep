@@ -33,20 +33,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<p>
-<h6>
-Hello! I'm  Sandeep, a passionate Computer Science Student with solid foundation in DSA, Programming Language
-<br>
-<br>
-
-I am always pursuing something new and looking for a company where I can dedicate my passion and skills to make my dreams come true.
-
-Let's connect and explore collaboration possibilities.
-
-</h6>
-</p>
 
 ## 📊 GitHub Stats
 
