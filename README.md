@@ -69,8 +69,9 @@
 
 ### 🧰 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,notion,rider" />
 </p>
+
 
 ### 🧠 Platforms & OS
 <p>
