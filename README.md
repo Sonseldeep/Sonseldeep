@@ -58,12 +58,12 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mssql" />
 </p>
 
 ### 🧰 Tools & IDEs
