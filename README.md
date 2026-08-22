@@ -17,7 +17,7 @@
 🎓 A passionate **Computer Science student** focused on building solutions through code.  
 💡 Always learning, creating, and collaborating to bring innovative ideas to life.  
 🔥 I enjoy **Frontend + Backend** development, reading poetry and philosophy, and problem-solving.  
-🌐 Currently learning **ASP .NET Core Web API**
+🌐 Currently learning **Blazor, and CI/CD**
 
 ---
 
